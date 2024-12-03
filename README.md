@@ -2,7 +2,7 @@
 ### Hi there 👋, Yusuf Agung Purwadi
 #### Cloud Computing
 <p align="center">
-  <img src="https://github.com/YusufAgungPurwadi/YusufAgungPurwadi/blob/main/Yusuf.jpeg" alt="YusufAgung Foto" width="700" height="350">
+  <img src="https://github.com/YusufAgungPurwadi/YusufAgungPurwadi/blob/main/Yusuf.jpeg" alt="YusufAgung Foto" width="600" height="350">
 </p>
 
 I'm Yusuf Agung from Jakrta Raya, and me made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.<br>
