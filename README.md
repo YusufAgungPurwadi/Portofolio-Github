@@ -10,7 +10,7 @@ Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dar
  
 Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/yusuf-agung-a1b611333)ku ya.
  
 ### Github Statistic
 <p align="left">
