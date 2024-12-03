@@ -1,7 +1,9 @@
 # 💫 About Me:
 ### Hi there 👋, Yusuf Agung Purwadi
-#### Cloud Computing
-![Yusuf](https://github.com/user-attachments/assets/0f48b6e0-8c8e-46ba-8e75-a7a25150eb02)
+#### Cloud Computing[
+<p align="center">
+  <img src="(https://github.com/YusufAgungPurwadi/YusufAgungPurwadi/blob/main/Yusuf.jpeg)" alt="MozArt Logo" width="300" height="350">
+</p>
 
 I'm Yusuf Agung from Jakrta Raya, and me made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.<br>
 
