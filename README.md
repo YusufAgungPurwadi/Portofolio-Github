@@ -1,10 +1,9 @@
 # 💫 About Me:
-### Hi there 👋, my name is Yusuf Agung Purwadi
-#### I am GitHub Yusuf Agung Purwadi
+### Hi there 👋, Yusuf Agung Purwadi
+#### Cloud Computing
 ![Yusuf](https://github.com/user-attachments/assets/0f48b6e0-8c8e-46ba-8e75-a7a25150eb02)
 
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.<br>
+I'm Yusuf Agung from Jakrta Raya, and me made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.<br>
 
 
 ## 🌐 Socials:
